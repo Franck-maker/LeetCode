@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design_Obj_impl/Design_Obj_impl.iml" filepath="$PROJECT_DIR$/Design_Obj_impl/Design_Obj_impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProg/DynamicProg.iml" filepath="$PROJECT_DIR$/DynamicProg/DynamicProg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra/Extra.iml" filepath="$PROJECT_DIR$/Extra/Extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphs/Graphs.iml" filepath="$PROJECT_DIR$/Graphs/Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedLists/LinkedLists.iml" filepath="$PROJECT_DIR$/LinkedLists/LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Others/Others.iml" filepath="$PROJECT_DIR$/Others/Others.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingSearching/SortingSearching.iml" filepath="$PROJECT_DIR$/SortingSearching/SortingSearching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
+    </modules>
+  </component>
+</project>
